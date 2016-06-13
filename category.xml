@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <bundle id="com.sun.jna" version="4.2.2">
+      <category name="org.everit.p2.jna.category"/>
+   </bundle>
+   <bundle id="com.sun.jna.platform" version="4.2.2">
+      <category name="org.everit.p2.jna.category"/>
+   </bundle>
+   <category-def name="org.everit.p2.jna.category" label="Java Native API"/>
+</site>
